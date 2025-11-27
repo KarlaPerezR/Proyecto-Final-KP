@@ -1,10 +1,10 @@
 # Crear ambiente virtual
 
-conda create -n streamlit_pyspark python=3.10 -y
+conda create -n streamlit_proyecto python=3.10 -y
 
 # Activar el ambiente
 
-conda activate streamlit_pyspark
+conda activate streamlit_proyecto
 
 # Si tienes error de java
 
