@@ -6,7 +6,7 @@ Análisis y Predicción de Financiamientos de Vivienda en México (2023–2025)
 Aplicación desarrollada en Streamlit para analizar y predecir el volumen de financiamientos de vivienda en México mediante visualizaciones interactivas, análisis exploratorio y modelos de Machine Learning (Regresión Lineal y Random Forest).
 Incluye dashboard, análisis por entidad, organismo, destino, perfil del acreditado y proyecciones para meses futuros.
 
-📌 1. Objetivo del proyecto
+Objetivo del proyecto
 
 Desarrollar una solución analítica completa basada en datos reales de financiamientos de vivienda en México, capaz de:
 
